@@ -1,0 +1,286 @@
+
+
+.wrap{
+
+    background-image: url(../images/circle-blues.png);
+
+    
+}
+.wrapper{
+
+border-color: #dddddd;
+width:960px;
+margin: 0 auto;
+height: 770px;
+
+
+}
+#name{
+    font-family:'Georgia','Times New Roman', Times, serif;
+    background-color: #4faaa5;
+    color:#ffffff;
+    float:left;
+    width:150px;
+    margin-top:0;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom: 33px;
+    padding-top: 20px;
+    margin-left:477px;
+    margin-right: 540px;
+    text-align: center;
+    border-color:#cccccc;
+}
+#about{
+    font-family:Arial, Helvetica, sans-serif,'Helvetica Neue';
+    border-right: 0.001cm solid;
+    border-color:#dddddd;
+    float:left;
+    width:80px;
+    margin-top:25px;
+    font-size:14px;
+    background-color: #ffffff;
+    color:#777777;
+    
+    
+}
+#contact{
+    font-family:Arial, Helvetica, sans-serif,'Helvetica Neue';
+    padding-left: 8px;
+    float:left;
+    width:80px;
+    margin-top:25px;
+    font-size:14px;
+    padding-right: 0;
+    background-color: #ffffff;
+    color:#777777;
+
+}
+
+#portfolio{
+    font-family:Arial, Helvetica, sans-serif,'Helvetica Neue';
+    padding-left: 8px;
+    border-right: 0.01cm solid;
+    border-color:#dddddd;
+    float:left;
+    width:80px;
+    margin-top:25px;
+    font-size:14px;
+    background-color: #ffffff;
+    color:#777777;
+}
+#abt{
+    margin-top: 0;
+    background-color: #ffffff;
+    color:#4faaa5;
+    font-size: 30px;
+    line-height: 10px;
+    padding-right: 20px;
+    font-family:Arial, Helvetica, sans-serif,'Helvetica Neue';
+}
+img{
+    clear:both;
+    width:200px;
+    height:150px;
+    float:left;
+    padding-right: 0px;
+    margin-right: 20px;
+    background-color: #ffffff;
+    
+}
+
+
+#wrapper1{
+    margin-top: 0.7cm;
+    clear:both;
+    background-color: #ffffff;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+}
+
+#wrapper2{
+    margin-top: -8px;
+    padding-left:0;
+    padding-bottom: 80px;
+    padding-top:0;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    margin-left:0;
+    margin-left: -477px;
+    margin-right: -477px;
+    border-bottom: solid 0.5px;
+    border-color:#cccccc ;
+}
+#wrapper4{
+    background-color: #ffffff;
+    height: 520px;
+    margin-bottom: 3-0px;
+    margin-top:0;
+    padding-bottom: 20px;
+}
+#end{
+    margin-bottom:-1px;
+    background-color:#4faaa5;
+    padding-top:3px;
+    padding-bottom:2px;
+    width:100%;
+    /* margin-top:200px; */
+}
+
+p{
+    
+    padding-right: 10px;
+    line-height: 25px;
+    background-color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif,'Helvetica Neue';
+    color:#777777;
+}
+#id{
+    
+    background-color: #ffffff;
+    width: 850px;
+    height: 20px;
+    padding-right:0;
+    margin-right: 10px;
+    
+}
+#id1{
+    background-color: #ffffff;
+    width:850px;
+    height: 20px;
+    padding-right:0;
+    margin-right:10px;
+}
+#id2{
+    background-color: #ffffff;
+    width: 850px;
+    height: 200px;
+    margin-left:0 auto;
+    margin-top:0 auto;
+    margin-bottom:0;
+}
+#button{
+    width: 90px;
+    height: 30px;
+    background-color: #4faaa5;
+    color:#ffffff
+    
+}
+a{
+    background-color: #ffffff;
+    color:#777777;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: #666666;
+    color:#ffffff;
+    padding-bottom:20px;
+    padding-top:20px;
+    margin:0 auto;
+    margin-bottom:8px;
+    font-size: 10px;
+    padding-right: 0;
+    padding-left: 0;
+    width:100%;
+    margin-top:0;
+    
+}
+#line{
+    margin-right:0 auto;
+    padding-right:20px;
+}
+.first{
+    position: relative;
+    clear: both;
+    left:0px;
+    height: 120px;
+    width: 200px;
+    top:-49px;
+    margin-top:-123px;
+}
+.second{
+    position: relative;
+    top:-173px;
+    height: 120px;
+    width:200px;
+    left:250px;
+}
+.third{
+    position: relative;
+    top:-134px;
+    left:0px;
+    height: 120px;
+    width:200px;
+}
+.fourth{
+    position: relative;
+    top:-253px;
+    left:250px;
+    height:120px;
+    width:200px;
+}
+.fifth{
+    position: relative;
+    top:-223px;
+    left:0px;
+    height:120px;
+    width:200px;
+}
+#hangman{
+    background-color: #4faaa5;
+    color: #ffffff;
+    width: 200px;
+    height: 37px;
+    top:17%;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+#rpggame{
+    background-color: #4faaa5;
+    color:#ffffff;
+    width:200px;
+    height:37px;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    top:10%;
+    left:27.2%;
+}
+#triviagame{
+    background-color: #4faaa5;
+    color:#ffffff;
+    width:200px;
+    height:37px;
+    position: relative;
+    z-index:1;
+    text-align:center;
+    top:33%;
+}
+#info{
+    background-color: #4faaa5;
+    color:#ffffff;
+    width:200px;
+    height:37px;
+    position: relative;
+    z-index:1;
+    text-align: center;
+    left:27.2%;
+    top:26%;
+    
+}
+#rock{
+    background-color: #4faaa5;
+    color:#ffffff;
+    width:200px;
+    height:37px;
+    position: relative;
+    z-index: 1;
+    text-align:center;
+    top:48%;
+}
